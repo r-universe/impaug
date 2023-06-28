@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GDAdata"]
 	path = GDAdata
 	url = https://github.com/cran/GDAdata
-	shallow = true
-	registered = true
 [submodule "OutliersO3"]
 	path = OutliersO3
 	url = https://github.com/cran/OutliersO3
-	shallow = true
-	registered = true
