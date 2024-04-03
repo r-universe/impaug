@@ -8,3 +8,6 @@
 [submodule "OutliersO3"]
 	path = OutliersO3
 	url = https://github.com/cran/OutliersO3
+[submodule "UpAndDownPlots"]
+	path = UpAndDownPlots
+	url = https://github.com/cran/UpAndDownPlots
