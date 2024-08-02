@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FilmsGmooG"]
+	path = FilmsGmooG
+	url = https://github.com/cran/FilmsGmooG
 [submodule "GDAdata"]
 	path = GDAdata
 	url = https://github.com/cran/GDAdata
