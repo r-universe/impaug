@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ChessGmooG"]
+	path = ChessGmooG
+	url = https://github.com/cran/ChessGmooG
 [submodule "ComradesM"]
 	path = ComradesM
 	url = https://github.com/cran/ComradesM
